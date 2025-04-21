@@ -17,4 +17,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="40"/> 
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-3030165.png?f=webp&w=256" alt="SQL" width="50"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcTrpqqe2HcMkOUflczPB-lfdTmsnvjuNnQ&s" alt="Power BI" width="150"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcTrpqqe2HcMkOUflczPB-lfdTmsnvjuNnQ&s" alt="Power BI" width="80"/> 

@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 A passionate Data Analyst from India
+
+📫 How to reach me: rahulguha988@gmail.com
+
+📄 Know about my experiences: https://drive.google.com/file/d/18Jn6Y2v222mW2FTT26gRRrDV2s_REhGY/view?usp=drive_link

@@ -15,5 +15,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="200"/>
 

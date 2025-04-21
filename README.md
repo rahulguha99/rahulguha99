@@ -14,5 +14,6 @@
 <a href="https://www.facebook.com/share/18ds5evHfA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
 
-
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="200"/>
 

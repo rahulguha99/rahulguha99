@@ -15,5 +15,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcTrpqqe2HcMkOUflczPB-lfdTmsnvjuNnQ&s" alt="Python","Power BI" width="40"/> 
+<img src=,"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcTrpqqe2HcMkOUflczPB-lfdTmsnvjuNnQ&s" alt="Power BI" width="40"/> 
 

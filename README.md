@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **rahulguha988@gmail.com**
 
+- 📄 Know about my experiences **https://drive.google.com/file/d/18Jn6Y2v222mW2FTT26gRRrDV2s_REhGY/view?usp=drive_link**
+
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
@@ -14,6 +16,5 @@
 <a href="https://www.facebook.com/share/18ds5evHfA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<img src=,"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcTrpqqe2HcMkOUflczPB-lfdTmsnvjuNnQ&s" alt="Power BI" width="40"/> 
+
 
